@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|c:\\users\\pichau\\source\\repos\\academiaefc\\academiaefc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|solutionrelative:academiaefc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|c:\\users\\pichau\\source\\repos\\academiaefc\\academiaefc\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|solutionrelative:academiaefc\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|c:\\users\\pichau\\source\\repos\\academiaefc\\academiaefc\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|solutionrelative:academiaefc\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|c:\\users\\pichau\\source\\repos\\academiaefc\\academiaefc\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83349E22-C956-466A-B737-6256CFFA1617}|AcademiaEFC\\AcademiaEFC.csproj|solutionrelative:academiaefc\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "AcademiaEFC\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Models\\SeedData.cs",
+              "RelativeToolTip": "AcademiaEFC\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:46:17.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "AcademiaEFC\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Models\\Context.cs",
+              "RelativeToolTip": "AcademiaEFC\\Models\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:45:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "AcademiaEFC\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "AcademiaEFC\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:41:50.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Models\\Personal.cs",
+              "RelativeDocumentMoniker": "AcademiaEFC\\Models\\Personal.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\AcademiaEFC\\AcademiaEFC\\Models\\Personal.cs",
+              "RelativeToolTip": "AcademiaEFC\\Models\\Personal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:40:16.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
